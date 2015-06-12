@@ -49,8 +49,8 @@
 "events go on to contest the 'World Cup'. Your eventual goal is to win this"
 "trophy in front of the home crowd,a feat never achieved in the event's history."
 
-"                 'WORLD CUP CRICKET ver2.51' Order form"
-" Please write your name and address including postcode in the space below."
+"                 'WORLD CUP CRICKET ver2.52' Order form"
+" For a more comprehensive registration form, please print out REGISTER.FRM"
 
 "    Name:________________         Address:       __________________________"
 
@@ -63,14 +63,14 @@
 " 'World Cup Cricket' - registered version             (15 pounds)    ______"
 " 'Sticky Wicket'-registered version & '2-player' game (15 pounds)    ______"
 " 'World Cup Cricket' & 'Sticky Wicket' & '2-player'   (25 pounds)    ______"
-" Disk type (Please Tick One Only): 3.5 inch______           5.25 inch______"
+" 	3.5 inch disks________		5.25 inch disk_________"
 " Please Tick Where Appropriate"
-" (For more info. on registration, enter 'TYPE WCC.DOC' at the DOS prompt)"
+" (For more info. on registration, enter 'TYPE WCC.TXT' at the DOS prompt)"
 "  Signed -               Total enclosed -"
 "  Send form in envelope addressed to :"
-"                      Mr. M.J.Carter"
-"       'Westmead',13, Chestnut Close,             Stirling Cheques Only"
-"                     Amersham, Bucks,             Please."
-"                             HP6 6EQ,             (Payable: M.J.Carter)"
-"                             ENGLAND.             Overseas-please add œ2"
+"                       Mr M.J.Carter"
+"                   13 Chestnut Close             Cheques and Postal Orders"
+"                            Amersham             Only Please."
+"                       Bucks HP6 6EQ             (Payable to M.J.Carter)"
+"                             England             Overseas-please add œ2"
 

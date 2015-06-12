@@ -1,4 +1,4 @@
-        W O R L D   C U P   C R I C K E T  version 2.51 (Shareware)
+        W O R L D   C U P   C R I C K E T  version 2.52 (Registered)
 
   CONTENTS
 
@@ -19,20 +19,14 @@
     iv) If you elect to field or are put into field
   8) Changing the speed
   9) Information on changing team and player names
- 10) History
- 11) The future
- 12) If you decide to register
- 13) HOW TO REGISTER
+ 10) Postal and E-mail Addresses
 
   1) Intoduction
 
-    This is the shareware version of the cricket game 'World Cup Cricket'
-    and may be copied freely as long as no profits are made at the author's
-    expense. If you continue to use this shareware version you should register
-    with the author. The registered version has an extended format. The aim is
-    to first qualify for the 'World Cup' by playing in the various one-day
-    tournaments over the world. The top eight teams then play in the 'World
-    Cup'.
+    This is the registered version of the cricket game 'World Cup Cricket' and
+    may not be copied. The aim is to first qualify for the 'World Cup' by
+    playing in the various one-day tournaments over the world and then win this
+    famous event.
 
 
   2) About the game
@@ -42,7 +36,7 @@
    and will be sacked if England fail to do well in the 'World Cup'. Can you
    avenge the defeat by Australia in the World Cup Final at Bombay (1987).
 
-                                                    
+                                                      
   3) Hardware Requirements
 
    'World Cup Cricket' should work on any IBM compatible PC with EGA (with at
@@ -54,37 +48,50 @@
 
   4) What should be on this disk
 
-   The following files should appear on your disk:
-        GAMES   .DAT    - Data file
-        GAME    .TXT    - Text appearing in the game
-        GAME0   .WCC    - Part of the actual program
-        GAME1   .WCC    -  "   "   "    "       "
-        REGISTER.FRM    - Registration form
-        WCC     .DOC    - This on-disk documentation
-        WCC     .EXE    - This starts WORLD CUP CRICKET
-        WORLDCUP.DA3    - Data file
-        WORLDCUP.DA4    -  "    "
-        WORLDCUP.SA3    -  "    "
-        WORLDCUP.SA4    -  "    "
+   The following 17 files should appear on your disk:
+    GAME0   .WCC    - Part of the actual program
+    GAME1   .WCC    -  "   "   "    "       "
+    GAMES   .DAT    - Data file
+    TEAMLIST.DAT    - Data file containing team names
+    USER    .SAV    - Data file
+    WCC     .TXT    - This on-disk documentation
+    WCC     .EXE    - This starts WORLD CUP CRICKET
+    WORLDCUP.DAT    - Data file
+    AUSTRALI.DAT    - Team data file
+    ENGLAND .DAT    -   "    "    "
+    INDIA   .DAT    -   "    "    "
+    NEWZEALA.DAT    -   "    "    "
+    PAKISTAN.DAT    -   "    "    "
+    SOUTHAFR.DAT    -   "    "    "
+    SRILANKA.DAT    -   "    "    "
+    WESTINDI.DAT    -   "    "    "
+    ZIMBABWE.DAT    -   "    "    "
+
+   'WORLDCUP.POS', 'WORLDCUP.SAV', and 'USERTEAM.DAT' should appear after you
+   have saved your position.
 
 
-  5) Features of shareware version
 
-   * The league part of the World Cup along with an optional qualification
-     tournament - the Currey Cup
+  5) Features of registered version
+
+   * Unlimited number of seasons
+   * Qualification period of 3 years where England plays in 3 out of 5
+     different events. The 'World Cup' is played the following year.
    * Comments on the shots played and dismissals
    * Edited highlights of the game including all the action shots, L.B.W and
      other dismissals
    * Database of 113 players, 9 teams each with  Ability / Form / Fitness
      ratings
+   * User can take charge of any of the 9 teams available
    * World Cup Averages that year for all teams involved
    * Career averages and averages since the last World Cup for your team
    * Umpire decisions in response to appeals
    * Squad and team Selection
-   * 3 field settings
+   * 5 field settings
    * Your personal career page
    * Choice of five levels of difficulty
    * Strategy can be changed throughout the match
+
 
 
   6) Starting up
@@ -102,12 +109,35 @@
     Soon after you have done this you will be presented with the main menu:
 
    i)  Main Menu
- 
+   
     By pressing any number from 1-7 you will be able to access the option
     You want:
+ 
+     1 - BEGIN TOURNAMENT
 
-     1 - BEGIN TOURNAMENT  (Self explanatory)
+       This will put you into one of the following 5 tournaments:
+     
+   The CARIBBEAN LEAGUE - Four guest nations plus the West Indies battle it
+   out on a round robbin basis in the heat of the Caribbean to see who will
+   top the league.
 
+   The CURREY CUP - Hosts South Africa and Zimbabwae challenge two other
+   teams in a knockout event over 45 overs.
+
+   The FOUNDERS CUP - A series of three matches which pits England against a
+   guest nation over 50 overs. The winner being the team which wins the most
+   games.  It is played in England.
+
+   The PACIFIC CUP - A tough tournament which pits a guest nation against
+   hosts Australia and New Zealand in a league over 40 overs. The top two
+   then play off in the final to decide the winners.
+
+   The SHAH CUP - This event features two mini leagues of three teams. Sri
+   Lanka, Pakistan and India have home advantage against three guest nations.
+   The top two teams of each league contest the semi finals and then the
+   final.
+
+   
      2 - SQUAD SELECTION
 
        First you will be presented with a list of 8 specialist batsmen from
@@ -123,9 +153,9 @@
 
        Note: If after pressing 'C', nothing happens, you must check that you
              have selected the right number of players as shown on the screen.
-   
+     
        The following screens behave in the same manner.
-       By Pressing 'B' at any time during squad selection you can toggle between
+       by Pressing 'B' at any time during squad selection you can toggle between
        showing the players in order of batting or bowling averages. You cannot
        order the wicket keepers by bowling averages because none of them can
        bowl.
@@ -135,7 +165,7 @@
 
      3 - VIEW TOURNAMENTS
 
-       The tournament highlighted in white is the tournament that you will be
+       The tournament highlighted in white is the tournament that you will be 
        playing in.
        If you are in year 4 you will be presented with all the fixtures in the
        World Cup.
@@ -146,7 +176,7 @@
        win is worth 2 points and a draw 1 point. Where this is equal the teams
        are ordered by the value of 'number of losses taken away from the number
        of wins' with the higher value being put higher in the table.
-   
+     
        If you chose to try to qualify you will find yourself bottom of the table
        and you will have to win your semi-final match in the Currey Cup if you
        are to lift yourself off the bottom of the table and play in the World
@@ -155,7 +185,7 @@
      5 - AVERAGES
 
        These are updated after every match.
-   
+     
      6 - INTERNATIONAL STATISTICS
 
        You will find that where your personal records are shown, there are some
@@ -167,11 +197,11 @@
 
      7 - EXIT
 
-       You will be given details if registration.
+       You will be given save your position as long as you have played at least
+       one tournament.
 
-       In the registered version your position is automatically saved.
-
-
+     
+  
     Once you have entered the tournament you will be presented with a map of
     the country in which you will be playing, tournament records and a brief
     description of the structure of the tournament. Then you will meet another
@@ -229,7 +259,7 @@
     looking at player qualities when choosing the team you can see which
     normally do the job. Enter the batsman number and press 'return'.
     Edited Highlights will be displayed.... Make sure your finger is poised
-    over the 'r' button. If the ball doesn't cross the boundary as a 4 or 6 it
+    over The 'r' button. If the ball doesn't cross the boundary as a 4 or 6 it
     will be fielded by the opposition. By pressing 'r' will enable your batsmen
     to run, you must decide if it is safe to do so. Failure to keep the score-
     board ticking over by taking quick runs will reduce the overall team
@@ -249,12 +279,11 @@
     over) by pressing 'f' you will be able to select from three fields -
     orthodox, defensive, attacking, highly attacking and unorthodox each with
     their own merits. The first 10 overs with the new ball and the last are
-    the most critical. Bowlers are restricted to bowling no more than a fifth
-    of the total number of overs in an innings and no bowler can bowl two
-    consecutive overs. If you are unable to select a particular bowler or the
-    computer automatically selects someone else this is to enable the above
-    rules for bowling to apply. This can be remedied by trying another bowler
-    who hasn't completed his spell.
+    the most critical. Bowlers are restricted to 10 overs none of which can be
+    bowled consecutively. If you are unable to select a particular bowler
+    or the computer automatically selects someone else this is to enable the
+    above rules for bowling to apply. This can be remedied by trying another
+    bowler who hasn't completed his spell.
 
     After your match has finished all the league results that week are shown.
     (including high scores and best bowling figures).
@@ -272,7 +301,19 @@
     a) A bowler is running up to the wicket
     b) You are selecting a new batsman to go into bat
     c) You are bowling and an over has just been completed.
-  
+
+
+
+   There is a history page and a round-up of all the other tournaments for every
+   event that England plays in. Each team plays three international one-day
+   tournaments and the eight out of the nine with the best % wins qualify for
+   The 'World Cup'. If you fail to qualify you are sacked.
+
+   England's career averages and averages since the last 'World Cup' are
+   avialable after each tournament.  A career page compares your successes
+   with other captains and lists the current holders of each title along with
+   your 'best' statistics overall.
+
 
 
   8) Changing the speed
@@ -297,143 +338,15 @@
    make sure that you have backed up this program in case anything goes wrong.
 
 
- 10) History
+ 10) Postal and E-mail Addresses
 
-   Version 2.00 (May 1992)      - First Release Into Shareware
-   Version 2.10 (June 1992)     - Bug-Fix Update On Version 2.00
-   Version 2.15 (June 1992)     - Minor Bug-Fix Update
-                                - '8' key on key-pad now works!
-                                - More realistic
-   Version 2.16 (July 1992)     - Improved Programing with minor bug fixes
-                                - Slightly better selection methods
-   Version 2.50 (February 1993) - Level settings now incorporated
-                                - Improved strategy
-                                - At any stage during a match the user
-                                  can alter how much risk their team
-                                  plays with
-                                - Running improved
-                                - In a run out the closest player to
-                                  the stumps is the one given out
-                                - Batsmen can now run four runs
-                                - Batsmen can run before the ball stops
-                                - Completed runs during run outs are included
-                                - Team selection slightly improved
-                                - On scorecard, batsmen appear in the order
-                                  they batted
-                                - The fielders role is more realistic
-   Version 2.51 (March 1993)    - Minor Bug Fix Update on verion 2.50
+   Please feel free to write in with any comments on World Cup Cricket
 
+   Write to:	Mark J Carter
+		Westmead
+		13 Chestnut Close
+		Amersham
+		Bucks HP6 6EQ
+		England
 
- 11) The Future
-
-   I am likely to write more cricket games in the near future and they will
-   almost definitely be written for Windows.  I hope to release 'World Cup
-   Cricket for Windows' by the end of 1993 and then I will turn my attention to
-   an international cricket game which may include a combination of test matches
-   and international matches - a game for the true cricket fan. By writing these
-   programs in Windows I hope to bring the quality of the graphics up to a much
-   higher level and with the advantage of being able to use the mouse in the
-   game introduce a much more interactive type of game, with much more emphasis
-   being placed on the tactics used during the actual game play.  I would be
-   grateful for any comments or ideas you could give me.
-
-
- 12) If you decide to register
-
-   If you continue to use this game you should register with the author.
-   Registration entitles the user to the registered version and also a œ5
-   discount off ALL other major games that I have written.
-
-   The registered version enables you to play the the 'World Cup' in full
-   including the semi-final and final. However, first you must qualify by
-   playing in three of five international tournaments.
-
-   The CARIBBEAN LEAGUE - Four guest nations plus the West Indies battle it
-   out on a round robbin basis in the heat of the Caribbean to see who will
-   top the league.
-
-   The CURREY CUP - Hosts South Africa and Zimbabwae challenge two other
-   teams in a knockout event over 45 overs.
-
-   The FOUNDERS CUP - A series of three matches which pits England against a
-   guest nation over 50 overs. The winner being the team which wins the most
-   games.  It is played in England.
-
-   The PACIFIC CUP - A tough tournament which pits a guest nation against
-   hosts Australia and New Zealand in a league over 40 overs. The top two
-   then play off in the final to decide the winners.
-
-   The SHAH CUP - This event features two mini leagues of three teams. Sri
-   Lanka, Pakistan and India have home advantage against three guest nations.
-   The top two teams of each league contest the semi finals and then the
-   final.
-
-   There is a history page and a round-up of all the other tournaments for every
-   event that England plays in. Each team plays three international one-day
-   tournaments and the eight out of the nine with the best % wins qualify for
-   the 'World Cup'. If you fail to qualify you are sacked.
-
-   England's career averages and averages since the last 'World Cup' are
-   avialable after each tournament.  A career page compares your successes
-   with other captains and lists the current holders of each title along with
-   your 'best' statistics overall.
-
-   You can play for as long as you like and save your postion after each
-   tournament.  You can also chose to be any team you like (from the 9 major
-   teams) and so if you want a real challenge, you can try and win the World Cup
-   with a team like Zimbabwe!
-
-   The registered version of 'World Cup Cricket' will cost just 15 pounds.
-   When registering please feel free to make any comments you have about the
-   game. We would like to thank you for your honesty and support of the
-   shareware concept.
-
-  'Sticky Wicket' - Another cricket game written by M.J.Carter
-
-   'Sticky Wicket' is the ultimate county cricket game for the P.C. It
-   combines the art of captaincy with week to week action of playing. Your
-   objective is to win the league and 'Sticky' cup. Your predecessor has
-   left, despondent with the teams poor run of recent results. By selecting
-   the team, choosing field placings, who bowls the crucial overs, where
-   everyone bats and even when a player must run you aim to return the team
-   to its former glory. Your success at doing so will be compared to the
-   greats  e.g W.G Grace , M.Brearly in the hall of fame. Hence the term
-   'Sticky Wicket' hence the situaton you face where winning is the difference
-   between glory AND Failure! It is accompanied with a 2-player game and costs
-   just 15 pounds.
-
-   Features -
-
-     * Database of 128 players, 8 teams each with career figures (updated
-       seasonally) / Ability / Form / Fitness ratings
-     * Seasonal and Career Averages
-     * Seven 40-over Sunday League matches including league table, fixture
-       list and full results service every week
-     * 40 over 'Sticky' cup competition
-     * Edited highlights of the game including all the action shots, L.B.W and
-       other dismissals
-     * Umpire decisions in response to appeals
-     * Team Selection
-     * 5 different field settings
-     * Save facility - stores averages and mid-season positions
-     * Career page
-
-
- 12) HOW TO REGISTER
-
-   If you wish to purchase both "'Sticky Wicket', 2-player game" and "World
-   Cup Cricket", it will cost you just 25 pounds (a discount of 5 pounds).
-   For those of you that have already registered for either of the above games
-   and wish to purchase the other game, you need only pay 10 pounds instead of
-   the usual price of 15 pounds, for that other game.
-   Overseas users should add œ2 to cover extra postage and packing.
-
-   Write to:        M.J.Carter                 Stirling Cheques only please,
-                    'Westmead'                 payable to M.J.Carter .
-                    13, Chestnut Close,
-                    Amersham,                  Remember to include your address
-                    Bucks                      and specify which disk size you
-                    HP6 6EQ                    would prefer.
-                    England
-
-
+   E-mail:	mark@westmead.demon.co.uk
