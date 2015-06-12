@@ -1,14 +1,18 @@
 
-		W O R L D   C U P   C R I C K E T  v2.61
+		W O R L D   C U P   C R I C K E T  v2.62
 
   CONTENTS
 
   1) Intoduction
-  2) Hardware requirements
-  3) What files should be on this disk
-  4) Features
-  5) Starting up
-  6) The Game - "World Cup Cricket"
+  2) Features
+  3) Copyright
+  4) Disclaimer
+  5) Distribution
+  6) What files should be in this distribution
+  7) Game history - including what's new in this version
+  8) Compatibility
+  9) Installing and running the game
+ 10) The Game - "World Cup Cricket"
     i) The Main Menu
 	- Team Selection
 	- League
@@ -20,18 +24,16 @@
     v) Strategy
    vi) The Tournaments
   vii) Other bits and pieces
-  7) Quiting the game during a match
-  8) Changing the speed
-  9) Changing the difficultly
- 10) Information on changing player data
- 11) Game history - including what's new in this version
- 12) Information for registered users
- 13) Sticky Wicket - another cricket game by Mark Carter
- 14) The brand new Sticky Wicket & World Cup Cricket WWW homepage!
- 15) Copyright
- 16) Disclaimer
- 17) Distribution
- 18) Author contact details
+ 11) Quiting the game
+ 12) Changing the speed
+ 13) Changing the difficultly
+ 14) Troubleshooting / known bugs
+ 15) How to add new teams
+ 16) Information on changing player data
+ 17) Information for registered users
+ 18) Sticky Wicket - another cricket game by Mark Carter
+ 19) The Sticky Wicket & World Cup Cricket Website and Yahoo! Group
+ 20) Author contact details
 
 -------------------------------------------------------------------------------
 
@@ -53,43 +55,7 @@
    one-day matches.
 
 
-  2) Hardware requirements
-  ------------------------
-   World Cup Cricket should work on any IBM compatible PC with EGA or better
-   graphics card and at least 512K of RAM. This should be ok for any PC less
-   than 7 years old!
-
-
-  3) What should be on this disk
-  ------------------------------
-   The following 17 files should appear on your disk:
-   [main directory]
-	WCC	.dat	- Main data file
-	WCC	.exe	- The executable game
-	WCC	.key	- Key file to unlock all features
-	WCC	.txt	- Main documentation
-	WCCMatch.dat	- Another data file 
-	WCCPart0.bin	- Part of the actual game
-	WCCPart1.bin	- Part of the actual game
-	WCCTeams.dat	- Data file containing the 9 team names
-	["Teams\" subdirectory] - Team data files
-		Australi.dat
-		England	.dat
-		India	.dat
-		NewZeala.dat
-		Pakistan.dat
-		SouthAfr.dat
-		SriLanka.dat
-		WestIndi.dat
-		Zimbabwe.dat
-
-   When you play the game for the first time, a subdirectory called "WCCSaves\"
-   is created and files called "User.sav", "UserTeam.dat", "WCC.pos", "WCC.sav"
-   are stored there.  You should ensure that at least 7K of disk space is
-   available for these files to be created.
-
-
-  4) Features
+  2) Features
   -----------
 
    * Database of 225 players, 9 teams each with career statistics and batting
@@ -115,11 +81,164 @@
    * Choice of five levels of difficulty
 
 
+  2) Copyright
+  ------------
+   World Cup Cricket is written and copyright by Mark Carter. No parts of this
+   program may be altered by any means (this includes editing, reprogramming,
+   crunching, resourceing etc.), except archiving.
 
-  5) Starting up
-  --------------
-   To start World Cup Cricket, first change to the directory where WCC is
-   located and then type "WCC". (Best to run from the DOS prompt).
+
+  3) Disclaimer
+  -------------
+   The author is in no way liable for any changes made to any part of the
+   program, or consequences thereof as he is in no way liable for damages or
+   loss of data directly or indirectly caused by this software.
+
+
+  4) Distribution
+  ---------------
+   Profits may not be made by distributing this piece of software - only a
+   nominal fee may be charged to cover postage, packing, materials etc. All
+   files may be copied so long as they are copied in their entirety and are not
+   seperated from each other. The files may be compressed into a .ZIP format (I
+   recommend naming the zip file wcc262.zip) in which case the directory
+   structure should be preserved.
+
+
+  6) What files should be in this distribution
+  --------------------------------------------
+   You should find the following files:
+   [main directory]
+	wcc     .bat	- Run this to start the game!
+	wcc     .dat	- Main data file
+	wcc     .txt	- Main documentation
+	wccentry.exe	- Part of the actual game engine
+	wccmatch.dat	- Another data file 
+	wccmenu .bin	- Part of the actual game engine
+	wccteams.dat	- Data file containing the 9 team names
+	wcctourn.bin	- Part of the actual game engine
+	["src\" subdirectory] - Source code
+		wccentry.bas
+		wccmenu .bas
+		wcctourn.bas
+		wcctourn.mak
+		wccutil .bas
+	["wccteams\" subdirectory] - Team data files
+		australi.dat
+		england	.dat
+		india	.dat
+		newzeala.dat
+		pakistan.dat
+		southafr.dat
+		srilanka.dat
+		westindi.dat
+		zimbabwe.dat
+
+   When you play the game for the first time, a subdirectory called "WCCSAVES\"
+   is created and files called "USER.SAV", "USERTEAM.DAT", "WCC.POS", "WCC.SAV"
+   are stored there.  You should ensure that at least 7K of disk space is
+   available for these files to be created.
+
+
+  7) Game history - including what's new in this version
+  ------------------------------------------------------
+   May 1992		- Version 2.00
+	* First release into the shareware market
+
+   June 1992		- Version 2.10
+	* Bug-Fix Update On Version 2.00
+
+   June 1992		- Version 2.15
+	* Minor Bug-Fix Update
+	* '8' key on key-pad now works!
+	* Games are now more realistic
+
+   July 1992		- Version 2.16
+	* Improved Programing with minor bug fixes
+	* Slightly better selection methods
+
+   February 1993	- Version 2.50
+	* Level settings now incorporated
+	* Improved strategy
+	* At any stage during a match the user can alter how much risk their
+	  team plays with
+	* Running improved
+	* In a run out the closest player to the stumps is the one given out
+	* Batsmen can now run four runs
+	* Batsmen can run before the ball stops
+	* Completed runs during run outs are included
+	* Team selection slightly improved
+	* On scorecard, batsmen appear in the order they batted
+	* The fielders role is more realistic
+
+   March 1993		- Version 2.51
+	* Minor Bug Fix Update on version 2.50
+
+   April 1995		- Version 2.52
+	* Updated documentation and registration form for overseas users and
+	  for email addresses
+
+   25th September 1996	- Version 2.60
+	* New "key file" registration system. See below for more details
+	* Improved method for getting game to run at correct speed
+	* Can now quit WCC while playing a game
+	* Level setting can now be altered from the Main Menu
+	* New option to toggle sound on/off
+	* Tidied up data file storage system
+	* Vaslty improved on-disk documentation - now over twice the size!
+	* New facility to print registration form within the game (shareware
+	  version only)
+
+   23rd August 2001	- Version 2.61
+	* Game is now freeware and so a default key file is included in
+          the distribution to unlock all features
+	* Updated documentation with new contact details and removed
+	  references to registration etc
+
+   24th November 2002 	- Version 2.62
+	* Added the source code! (Quick Basic 4.5 compatible)
+	* Removed chunks of redundant code from the program concerning
+	  shareware and key file logic
+	* Removed the key file from the distribution as it is no longer used
+	* Completely reorganised wcc.txt into a more logical format.
+	  Ammended contact details, website address and added a link to the
+	  new Yahoo! discussion group. Also added sections on troubleshooting,
+	  compatibility and installation
+	* Fixed a bug which was caused by Quick Basic's "Shell" command. Now no
+	  longer uses the "Shell" command. This had been causing a FILE NOT FOUND
+	  error
+	* Improved error handling
+
+
+  8) Compatibility
+  ----------------
+   This game should work on any IBM compatible PC with EGA or better
+   graphics card and at least 512K of RAM. This should be ok for any PC
+   purchased after 1990!
+
+   The game runs fine under the later versions of DOS and also runs fine
+   from Windows 3.x, 95, 2000 and XP. However, I have heard of users having
+   problems using Windows 98 and ME.
+
+
+  9) Installing and running the game
+  ----------------------------------
+   Chances are you will have just unzipped a file called wcc262.zip and are
+   ready to run the game straight away.
+
+   If not, then you will need something like WinZip (if running from Windows)
+   or PKUnzip (if running from DOS). Please refer to the relevant documentation
+   to find out how to extract the files from the zip file and remember to
+   preserve the directory structure when extracting.
+
+   It is good to check that when you unzipped the files they appear as
+   described in the "What files should be in this distribution" section in this
+   document. If not, then you will need to fix this!
+
+   To start the game from DOS, change to the directory where wcc.bat is stored
+   and then type "wcc".
+
+   To start the game from Windows, just double-click on the wcc.bat icon.
 
    You should be greeted by the title page followed by a request to enter your
    name.
@@ -133,8 +252,8 @@
    the Main Menu.
 
 
-  6) The Game - "World Cup Cricket"
-  ---------------------------------
+ 10) The Game - "World Cup Cricket"
+ ----------------------------------
    Soon after the title sequence and entering your name, you are presented
    with the main menu...
 
@@ -344,35 +463,34 @@
     after each tournament.
 
 
-  7) Quiting the game during a match
-  ----------------------------------
-   You can exit World Cup Cricket in the middle of a match by pressing the
-   function key F9.
+ 11) Quiting the game
+  -------------------
+   You can exit the game at any time by pressing the function key F9.
 
 
-  8) Changing the speed
-  ---------------------
+ 12) Changing the speed
+ ----------------------
    The speed at which the game runs should be the same for both fast and slow
    PC's. However, if you wish to make the game faster or slower, you could try 
-   typing the following (instead of just "WCC") when you next run World Cup
-   Cricket:
+   typing the following (instead of just "wcc") when you next run the game:
 
-	WCC X  (Where X is a whole number from 1 to 30000)
+	wcc X  (Where X is a whole number from 1 to 30000)
 
    The LOWER the number the FASTER the game will run.
 
    As a rough guide, a 286-12 machine should run perfectly using
 
-	WCC 50		to begin the game.
+	wcc 50		to begin the game.
 
    and a 486DX2-66 should run about right using
 
-	WCC 500		to begin the game.
+	wcc 500		to begin the game.
 
    You may have to play around with finding the best value for you.
 
-  9) Changing the difficultly
-  ---------------------------
+
+ 13) Changing the difficultly
+ ----------------------------
    There are three ways to change the level of difficulty.
 
    Firstly, change the level setting - you probably guessed this one!
@@ -388,81 +506,65 @@
    Cricket by typing "WCC 1" (at the DOS prompt) on a Pentium PC!
 
 
- 10) Information on changing player data
- ----------------------------------------
+ 14) Troubleshooting / known bugs
+ --------------------------------
+
+   a) Common problem
+
+   Almost all the problems known about this game stem from the fact that it is not
+   possible to run DOS programs from Windows DOS when the executable lies in a
+   folder whose path is more than 64 characters long. If you do happen to run the
+   game from such a folder you will be presented with a message explaining this
+   situation and how to rectify it! No prises for guessing that the solution is based
+   around re-installing the game to a folder with a short path!
+   
+   b) "Unable to find file: wcc.dat"
+
+   Check that the file does indeed exist in the same folder as wcc.bat. If it does
+   not then it sounds like you have an incomplete installation. (See section 6 of
+   this file for which files should be in this distribution.
+
+   The only other explanation could be if the working directory is set to something
+   other than the folder which contains wcc.bat. However, if you are running the
+   wcc.bat file from Windows (i.e. by double clicking on the wcc.bat icon) then this
+   should always be correct.
+   
+   c) "Unable to find file: wccteams\australi.dat" (or similar)
+
+   Usually, this occurs when the wccXXX.zip file has been unzipped without
+   preserving the folder structure. Check that the main wcc folder has a subfolder
+   called "wccteams" and that it contains a file for each team.
+
+   d) Something else!
+
+   Post your problem on the Yahoo! Group - see end of this document!
+
+
+ 15) How to add new teams
+ ------------------------
+   The format of this game is such that it is not possible to add any more
+   teams to the nine already defined. However, there is nothing to stop you
+   editing any (or all) of the existing team names. This can be done by using a
+   text editor on the wccteams.dat file.
+
+
+ 16) Information on changing player data
+ ---------------------------------------
    If you decide that you want to change some of the names you can easily
-   change the data files in the "Teams\" subdirectory, using a text editor.
+   change the data files in the "wccteams\" subdirectory, using a text editor.
    However, if you do this you must make sure that you have backed up this
    program in case anything goes wrong.
 
 
- 11) Game history - including what's new in this version
- -------------------------------------------------------
-   May 1992		- Version 2.00
-	* First release into the shareware market
-
-   June 1992		- Version 2.10
-	* Bug-Fix Update On Version 2.00
-
-   June 1992		- Version 2.15
-	* Minor Bug-Fix Update
-	* '8' key on key-pad now works!
-	* Games are now more realistic
-
-   July 1992		- Version 2.16
-	* Improved Programing with minor bug fixes
-	* Slightly better selection methods
-
-   February 1993	- Version 2.50
-	* Level settings now incorporated
-	* Improved strategy
-	* At any stage during a match the user can alter how much risk their
-	  team plays with
-	* Running improved
-	* In a run out the closest player to the stumps is the one given out
-	* Batsmen can now run four runs
-	* Batsmen can run before the ball stops
-	* Completed runs during run outs are included
-	* Team selection slightly improved
-	* On scorecard, batsmen appear in the order they batted
-	* The fielders role is more realistic
-
-   March 1993		- Version 2.51
-	* Minor Bug Fix Update on version 2.50
-
-   April 1995		- Version 2.52
-	* Updated documentation and registration form for overseas users and
-	  for email addresses
-
-   25th September 1996	- Version 2.60
-	* New "key file" registration system. See below for more details
-	* Improved method for getting game to run at correct speed
-	* Can now quit WCC while playing a game
-	* Level setting can now be altered from the Main Menu
-	* New option to toggle sound on/off
-	* Tidied up data file storage system
-	* Vaslty improved on-disk documentation - now over twice the size!
-	* New facility to print registration form within the game (shareware
-	  version only)
-
-   23rd August 2001	- Version 2.61
-	* Game is now freeware and so a default key file is included in
-          the distribution to unlock all features
-	* Updated documentation with new contact details and removed
-	  references to registration etc
-
-
- 12) Information for registered users
+ 17) Information for registered users
  ------------------------------------
-   The game is no longer shareware so there is no need to register.
+   This game is no longer shareware so there is no need to register.
 
    Thank you very much to those (300+!) of you who registered for one or both
-   of my cricket games.  Your support is much appreciated.  Although these
-   games are now freeware, your details are kept on record and I will try my
-   best to ensure you receive discounts on any future games I write.
+   of my cricket games.  Your support is much appreciated.
 
 
- 13) Sticky Wicket - another cricket game by Mark Carter
+ 18) Sticky Wicket - another cricket game by Mark Carter
  -------------------------------------------------------
    Sticky Wicket is based on one-day matches in both league and cup
    competitions played between english county teams. This is one of the very
@@ -496,49 +598,28 @@
    * 2-player matches between any 2 teams of your choice
 
 
- 14) The Sticky Wicket & World Cup Cricket WWW page!
- -------------------------------------------------------------
-   I have just put the Sticky Wicket & World Cup Cricket homepage back on the
-   internet after a few years absence.  This contains all the information you
-   need to know about the games.  You can even download the latest versions
-   of the games although I am not intending to write any updates.
+ 19) The Sticky Wicket & World Cup Cricket Website and Yahoo! Group
+ ------------------------------------------------------------------
+   The Sticky Wicket & World Cup Cricket website contains all the information
+   you need to know about the games. You can download the latest versions of
+   the games although I am not intending to write any updates.
 
    Point your web browser to:
 
-   http://uk.geocities.com/mark_j_carter/old/cricket
+   http://cricket.mark.carter.name
+
+   I have also set up a Yahoo! Groups group for discussing both games:
+
+   http://groups.yahoo.com/group/stickywicket
 
 
- 15) Copyright
- -------------
-   World Cup Cricket is written and copyright by Mark Carter. No parts of this
-   program may be altered by any means (this includes editing, reprogramming,
-   crunching, resourceing etc.), except archiving.
-
-
- 16) Disclaimer
- --------------
-   The author is in no way liable for any changes made to any part of the
-   program, or consequences thereof as he is in no way liable for damages or
-   loss of data directly or indirectly caused by this software.
-
-
- 17) Distribution
- ----------------
-   Profits may not be made by distributing this piece of software - only a nominal
-   fee may be charged to cover postage, packing, materials etc. All files may
-   be copied so long as they are copied in their entirety and are not seperated
-   from each other. The files may be compressed into a .ZIP format (I recommend
-   naming the zip file WCC261.ZIP) in which case the directory structure should
-   be preserved.
-
-
- 18) Author contact details
+ 20) Author contact details
  --------------------------
    Please send comments & suggestions to:
 
-   E-mail:	mark_j_carter@yahoo.com
-   URL:		http://uk.geocities.com/mark_j_carter/old/cricket
+   mailto:mark@carter.name
+   http://cricket.mark.carter.name
 
-   ...but bear in mind that this game is no longer being developed...
+   ...but keep in mind that this game is no longer being developed...
 
-Enjoy!							       23 August 2001
+Enjoy!							       24 November 2002
