@@ -1,0 +1,372 @@
+        W O R L D   C U P   C R I C K E T  version 2.51 (Registered)
+
+  CONTENTS
+
+  1) Intoduction
+  2) About the game
+  3) Hardware requirements
+  4) What should be on this disk
+  5) Features of shareware version
+  6) Starting up
+  7) The Game - 'World Cup Cricket'
+     i) The main menu
+         - Team Selection
+         - League
+         - Fixtures
+         - Tournament Statistics
+    ii) Playing 'World Cup Cricket'
+   iii) If you elect to bat or are put into bat
+    iv) If you elect to field or are put into field
+  8) Changing the speed
+  9) Information on changing team and player names
+ 10) If you decide to register
+ 11) HOW TO REGISTER
+
+  1) Intoduction
+
+    This is the registered version of the cricket game 'World Cup Cricket'
+    and may be not be copied. The aim is to first qualify for the 'World Cup'
+    by playing in the various one-day tournaments over the world and then win
+    this famous event.
+
+
+  2) About the game
+
+   'World Cup Cricket' aims to allow you to experience the thrills and spills
+   of international one-day cricket. You are under great pressure to do well
+   and will be sacked if England fail to do well in the 'World Cup'. Can you
+   avenge the defeat by Australia in the World Cup Final at Bombay (1987).
+
+                                                      
+  3) Hardware Requirements
+
+   'World Cup Cricket' should work on any IBM compatible PC with EGA (with at
+   least 64k screen memory) or better graphics card and at least 256K of RAM.
+   The shareware version and registered version can both be run from a single
+   360K floppy drive. The disk should have at least 7K free to allow for
+   temporary data files to be saved while the program is running
+
+
+  4) What should be on this disk
+
+   The following 17 files should appear on your disk:
+    GAME0   .WCC    - Part of the actual program
+    GAME1   .WCC    -  "   "   "    "       "
+    GAMES   .DAT    - Data file
+    TEAMLIST.DAT    - Data file containing team names
+    USER    .SAV    - Data file
+    WCC     .DOC    - This on-disk documentation
+    WCC     .EXE    - This starts WORLD CUP CRICKET
+    WORLDCUP.DAT    - Data file
+    AUSTRALI.DAT    - Team data file
+    ENGLAND .DAT    -   "    "    "
+    INDIA   .DAT    -   "    "    "
+    NEWZEALA.DAT    -   "    "    "
+    PAKISTAN.DAT    -   "    "    "
+    SOUTHAFR.DAT    -   "    "    "
+    SRILANKA.DAT    -   "    "    "
+    WESTINDI.DAT    -   "    "    "
+    ZIMBABWE.DAT    -   "    "    "
+
+   'WORLDCUP.POS', 'WORLDCUP.SAV', and 'USERTEAM.DAT' should appear after you
+   have saved your position.
+
+
+
+  5) Features of registered version
+
+   * Unlimited number of years
+   * Qualification period of 3 years where England plays in 3 out of 5
+     different events. The 'World Cup' is played the following year.
+   * Comments on the shots played and dismissals
+   * Edited highlights of the game including all the action shots, L.B.W and
+     other dismissals
+   * Database of 113 players, 9 teams each with  Ability / Form / Fitness
+     ratings
+   * User can take charge of any of the 9 teams available
+   * World Cup Averages that year for all teams involved
+   * Career averages and averages since the last World Cup for your team
+   * Umpire decisions in response to appeals
+   * Squad and team Selection
+   * 5 field settings
+   * Your personal career page
+   * Choice of five levels of difficulty
+   * Strategy can be changed throughout the match
+
+
+
+  6) Starting up
+
+   To start 'World Cup Cricket' type WCC at the DOS prompt.
+
+
+  7) The Game - 'World Cup Cricket'
+
+    After entering your name you can choose whether to go straight into the
+    'World Cup' or qualify first. Qualifying is a good way to get used to how
+    the game plays so that you are well prepared for the World Cup but at the
+    same time you run the risk of failing to qualify.
+
+    Soon after you have done this you will be presented with the main menu:
+
+   i)  Main Menu
+   
+    By pressing any number from 1-7 you will be able to access the option
+    You want:
+ 
+     1 - BEGIN TOURNAMENT
+
+       This will put you into one of the following 5 tournaments:
+     
+   The CARIBBEAN LEAGUE - Four guest nations plus the West Indies battle it
+   out on a round robbin basis in the heat of the Caribbean to see who will
+   top the league.
+
+   The CURREY CUP - Hosts South Africa and Zimbabwae challenge two other
+   teams in a knockout event over 45 overs.
+
+   The FOUNDERS CUP - A series of three matches which pits England against a
+   guest nation over 50 overs. The winner being the team which wins the most
+   games.  It is played in England.
+
+   The PACIFIC CUP - A tough tournament which pits a guest nation against
+   hosts Australia and New Zealand in a league over 40 overs. The top two
+   then play off in the final to decide the winners.
+
+   The SHAH CUP - This event features two mini leagues of three teams. Sri
+   Lanka, Pakistan and India have home advantage against three guest nations.
+   The top two teams of each league contest the semi finals and then the
+   final.
+
+   
+     2 - SQUAD SELECTION
+
+       First you will be presented with a list of 8 specialist batsmen from
+       which you may select 6 to play in the tournament that year. You will
+       see that a default 6 players has already been selected and if you wish
+       to make no change just press 'C' to continue. There are also default
+       selections for the following 3 squad selection teams. The highlighted
+       player is shown in a red bar, selected players are shown in white
+       foreground and deselected players are shown in yellow foreground. If you
+       wish to select or deselect a player, you must first use the cursor keys
+       to move the red bar to that player and then press 'S' or 'D'. Once you
+       have made your selection, press 'C' to confirm.
+
+       Note: If after pressing 'C', nothing happens, you must check that you
+             have selected the right number of players as shown on the screen.
+     
+       The following screens behave in the same manner.
+       by Pressing 'B' at any time during squad selection you can toggle between
+       showing the players in order of batting or bowling averages. You cannot
+       order the wicket keepers by bowling averages because none of them can
+       bowl.
+
+       If you only wish to view your squad then press 'C' to cycle through the
+       4 different categories of players.
+
+     3 - VIEW TOURNAMENTS
+
+       The tournament highlighted in white is the tournament that you will be 
+       playing in.
+       If you are in year 4 you will be presented with all the fixtures in the
+       World Cup.
+
+     4 - INTERNATIONAL TABLE
+
+       You are shown in white. Teams are ordered by percentage points where a
+       win is worth 2 points and a draw 1 point. Where this is equal the teams
+       are ordered by the value of 'number of losses taken away from the number
+       of wins' with the higher value being put higher in the table.
+     
+       If you chose to try to qualify you will find yourself bottom of the table
+       and you will have to win your semi-final match in the Currey Cup if you
+       are to lift yourself off the bottom of the table and play in the World
+       Cup.
+
+     5 - AVERAGES
+
+       These are updated after every match.
+     
+     6 - INTERNATIONAL STATISTICS
+
+       You will find that where your personal records are shown, there are some
+       statistics already there even before you a game. These are the records
+       from the matches played in the tournaments after the last World Cup and
+       have been put there to give you an idea of the scores you should be
+       expecting to achieve. In the registered version all your records are set
+       to zero when you begin.
+
+     7 - EXIT
+
+       You will be given save your position as long as you have played at least
+       one tournament.
+
+     
+  
+    Once you have entered the tournament you will be presented with a map of
+    the country in which you will be playing, tournament records and a brief
+    description of the structure of the tournament. Then you will meet another
+    menu.
+
+     1 - Begin next match. (Self explanatory)
+
+     2 - Select team
+
+       A default will already be selected but by using the cursor keys along
+       with the other keys as shown on the screen you can change your team. The
+       different colours signify what type of role the player will play in the
+       match. Selecting a player blue will enable him to bowl - you may only
+       bowl a maximum of 6 players and you can only select players as bowlers
+       if they have a bowling skill of more than zero. 'Other' players can
+       neither bowl nor take wicket - they tend to be specialist batsmen.
+
+       The four qualities - batting, bowling, fitness and form (on a scale of
+       zero to twenty) act as a guide to which players should be selected.
+       Fitness and form are described in more detail below.
+
+       Fitness - This declines rapidly for bowlers, less so for batsmen. To
+       counter this you should make regular alterations to the side enabling the
+       players to recouperate. Over-use of players makes them become stale and
+       will affect their performance ie a player of 1 (one) fitness is useless.
+
+       Form - This changes from match to match and is an indication of the
+       players current form. High values will mean he is very confident and has
+       been successful with the bat or ball. A loss in form may result in poor
+       performances.
+
+
+
+    The rest of the menu is fairly self-explanatory and varies depending on
+    which tournament your are in.
+
+
+
+  ii) Playing 'World Cup Cricket'
+
+    Pressing '1' in the main menu will take you to the next match.
+    The teams are displayed and  the opposition and your teams strengths and
+    weaknesses are compared. If your fitness is significantly low the
+    likelyhood of catches being dropped, fielder mistakes and a general
+    lethargic performance overall are increased. Alterations should be made
+    when you next return to the main menu. A coin is tossed and the opposition
+    will inform you of its intention to bat or field if it wins, press space
+    to continue. If you win use 'b' to bat or 'f' to field.
+
+
+ iii) If you elect or are put into bat
+
+    Select your two openers. They should be chosen to see off the new ball to
+    enable the middle order to slog. Openers are specialist batsmen and by
+    looking at player qualities when choosing the team you can see which
+    normally do the job. Enter the batsman number and press 'return'.
+    Edited Highlights will be displayed.... Make sure your finger is poised
+    over The 'r' button. If the ball doesn't cross the boundary as a 4 or 6 it
+    will be fielded by the opposition. By pressing 'r' will enable your batsmen
+    to run, you must decide if it is safe to do so. Failure to keep the score-
+    board ticking over by taking quick runs will reduce the overall team
+    score. However, run outs can be equally disasterous. Even if you are
+    outside the crease there is still a possibility that the opposition fielder
+    will miss the stumps. If a decision is close the umpire will be called
+    upon to adjudicate. Unfortunately this is open to human error and may be
+    dubious but that's cricket! Along the bottom of the field brief comments
+    on the action is displayed.
+
+
+  iv) If you elect to field or are put into field
+
+    Utilising your bowlers to the optinum performance is an acquired skill.
+    With practise you will discover which can conserve runs and which will take
+    wickets. When in the scorecard (ie at fall of Wicket or at the end of each
+    over) by pressing 'f' you will be able to select from three fields -
+    orthodox, defensive, attacking, highly attacking and unorthodox each with
+    their own merits. The first 10 overs with the new ball and the last are
+    the most critical. Bowlers are restricted to 10 overs none of which can be
+    bowled consecutively. If you are unable to select a particular bowler
+    or the computer automatically selects someone else this is to enable the
+    above rules for bowling to apply. This can be remedied by trying another
+    bowler who hasn't completed his spell.
+
+    After your match has finished all the league results that week are shown.
+    (including high scores and best bowling figures).
+
+
+   v) Strategy
+
+    Once you have got to grips with the game you may find that you want to have
+    a greater influence on how you play each match. You can do this by using
+    the strategy option which enables you to change the risk with which your
+    team plays. For example, if you find that you need to increase your run
+    rate try increasing the risk in the strategy page.
+
+    The strategy option is available by pressing 'S' when:
+    a) A bowler is running up to the wicket
+    b) You are selecting a new batsman to go into bat
+    c) You are bowling and an over has just been completed.
+
+
+
+   There is a history page and a round-up of all the other tournaments for every
+   event that England plays in. Each team plays three international one-day
+   tournaments and the eight out of the nine with the best % wins qualify for
+   The 'World Cup'. If you fail to qualify you are sacked.
+
+   England's career averages and averages since the last 'World Cup' are
+   avialable after each tournament.  A career page compares your successes
+   with other captains and lists the current holders of each title along with
+   your 'best' statistics overall.
+
+
+
+  8) Changing the speed
+
+   This game should run at the same speed on any PC. However, if you find the
+   game is running too quickly or to slowly try typing the following at the DOS
+   prompt when you next run 'World Cup Cricket':
+
+                    WCC X  (Where X is a whole number from 1 to 100)
+
+   As a rough guide, a 286-10 machine should run perfectly if you type
+
+                    WCC 6     to begin the program.
+
+   You may have to play around with finding the best value for your P.C.
+
+
+  9) Information on changing team and player names
+
+   If you decide that you want to change some of the names you can easily
+   change the data files using a text editor. However, if you do this you must
+   make sure that you have backed up this program in case anything goes wrong.
+
+
+
+  'Sticky Wicket' - Another cricket game written by M.J.Carter
+
+   'Sticky Wicket' is the ultimate county cricket game for the P.C. It
+   combines the art of captaincy with week to week action of playing. Your
+   objective is to win the league and 'Sticky' cup. Your predecessor has
+   left, despondent with the teams poor run of recent results. By selecting
+   the team, choosing field placings, who bowls the crucial overs, where
+   everyone bats and even when a player must run you aim to return the team
+   to its former glory. Your success at doing so will be compared to the
+   greats  e.g W.G Grace , M.Brearly in the hall of fame. Hence the term
+   'Sticky Wicket' hence the situaton you face where winning is the difference
+   between glory AND Failure! It is accompanied with a 2-player game and costs
+   just 15 pounds (or œ10 for those who have already registered a game with me).
+
+   Features -
+
+     * Database of 128 players, 8 teams each with career figures (updated
+       seasonally) / Ability / Form / Fitness ratings
+     * Seasonal and Career Averages
+     * Seven 40-over Sunday League matches including league table, fixture
+       list and full results service every week
+     * 40 over 'Sticky' cup competition
+     * Edited highlights of the game including all the action shots, L.B.W and
+       other dismissals
+     * Umpire decisions in response to appeals
+     * Team Selection
+     * 5 different field settings
+     * Save facility - stores averages and mid-season positions
+     * Career page
+

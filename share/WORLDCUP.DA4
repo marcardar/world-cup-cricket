@@ -1,0 +1,592 @@
+""
+" 250 for 6 England"
+" 44 for 10 England"
+" 95 Lamb"
+" 5"
+" for 50 Botham"
+4
+2
+1
+3
+4
+4
+4
+3
+4
+4
+4
+1
+6
+4
+2
+0
+8
+1
+0
+1
+2
+3
+4
+5
+6
+7
+0
+2
+1
+3
+4
+6
+5
+7
+0
+3
+1
+2
+4
+7
+5
+6
+0
+4
+1
+5
+2
+6
+3
+7
+0
+5
+1
+4
+2
+7
+3
+6
+0
+6
+1
+7
+2
+4
+3
+5
+0
+7
+1
+6
+2
+5
+3
+4
+"Gooch"
+"Essex"
+19,10
+105
+100
+3853
+37
+328
+1450
+37
+0
+3
+19
+"Opening Batsman"
+" 142"
+"Hick"
+"Worcs"
+16,8
+10
+9
+156
+1
+0
+0
+0
+0
+0
+0
+"Top Order Batsman"
+" 86 not out"
+"Smith.R"
+"Hampshire"
+18,0
+40
+36
+1124
+11
+0
+0
+0
+0
+0
+0
+"Middle Order Batsman"
+" 128"
+"Lamb"
+"Northants"
+16,4
+117
+100
+3952
+28
+1
+3
+0
+0
+0
+3
+"Middle Order Batsman"
+" 118"
+"Fairbro'"
+"Lancs"
+17,0
+14
+11
+354
+1
+0
+0
+0
+0
+0
+0
+"Left Handed Batsman"
+" 113"
+"Ramprakash"
+"Middlesex"
+14,0
+3
+1
+27
+0
+0
+0
+0
+0
+0
+0
+"Middle Order Batsman"
+" 21"
+"Atherton"
+"Lancs"
+16,8
+10
+9
+261
+1
+14
+41
+3
+0
+2
+26
+"Opening Batsman"
+" 88"
+"Gower"
+"Hampshire"
+16,0
+81
+77
+2637
+30
+0
+0
+0
+0
+0
+0
+"Left Handed Batsman"
+" 158"
+"Botham"
+"Worcs"
+15,15
+100
+88
+1858
+17
+946
+3731
+133
+1
+5
+50
+"All Rounder"
+" 72"
+"Lewis"
+"Notts"
+13,18
+16
+15
+102
+0
+159
+724
+29
+0
+4
+10
+"All Rounder"
+" 20"
+"Pringle.D"
+"Essex"
+12,13
+24
+14
+374
+0
+275
+1285
+27
+0
+3
+28
+"All Rounder"
+" 49 not out"
+"Reeve"
+"Warwicks"
+11,15
+1
+0
+0
+0
+31
+106
+2
+0
+2
+27
+"All Rounder"
+""
+"Capel"
+"Northants"
+12,13
+8
+5
+41
+0
+45
+237
+7
+0
+3
+24
+"All Rounder"
+" 28"
+"Watkinson"
+"Lancs"
+11,14
+2
+0
+24
+0
+19
+62
+7
+0
+4
+16
+"All Rounder"
+" 20 not out"
+"Small"
+"Warwicks"
+7,14
+21
+8
+57
+0
+79
+297
+13
+0
+2
+19
+"Fast/Medium Bowler"
+" 20"
+"DeFreitas"
+"Lancs"
+10,18
+49
+31
+518
+0
+634
+2435
+73
+0
+4
+35
+"Medium/Fast Bowler"
+" 49 not out"
+"Tufnell"
+"Middlesex"
+2,17
+10
+3
+53
+0
+124
+446
+12
+0
+3
+12
+"Slow Left Arm Spin"
+" 20 not out"
+"Illingw'th"
+"Worcs"
+6,16
+4
+3
+12
+0
+61
+216
+9
+0
+3
+8
+"Slow Left Arm Spin"
+" 9 not out"
+"Dilley"
+"Worcs"
+6,17
+16
+11
+113
+0
+217
+850
+24
+2
+5
+45
+"Fast Bowler"
+" 31 not out"
+"Fraser"
+"Middlesex"
+5,17
+9
+7
+26
+0
+74
+162
+11
+0
+3
+4
+"Fast/Medium Bowler"
+" 10 not out"
+"Foster"
+"Essex"
+9,16
+13
+6
+61
+0
+218
+858
+22
+0
+3
+39
+"Fast Bowler"
+" 24"
+"Lawrence"
+"Gloucs"
+4,16
+1
+1
+18
+0
+20
+96
+4
+0
+4
+67
+"Fast Bowler"
+" 18"
+"Stewart"
+"Surrey"
+17,0
+30
+26
+625
+3
+0
+0
+0
+0
+0
+0
+"Wicket Keeper"
+" 61"
+"Russell"
+"Gloucs"
+10,0
+20
+14
+274
+1
+0
+0
+0
+0
+0
+0
+"Wicket Keeper"
+" 50"
+"Rhodes.S"
+"Worcs"
+10,0
+4
+3
+49
+0
+0
+0
+0
+0
+0
+0
+"Wicket Keeper"
+" 19 not out"
+"England"
+""
+6
+7
+0
+0
+0
+"Australia"
+"Border"
+72
+27
+15
+1
+16
+"India"
+"Azharuddin"
+38
+38
+7
+0
+9
+"New Zealand"
+"Crowe.M"
+33
+43
+4
+0
+5
+"Pakistan"
+"Khan.I"
+53
+27
+16
+1
+11
+"South Africa"
+"Wessels"
+5
+7
+0
+0
+1
+"Sri Lanka"
+"DeSilva.A"
+14
+54
+12
+0
+0
+"West Indies"
+"Richardson.R"
+5
+10
+1
+0
+0
+"Zimbabwe"
+"Houghton"
+8
+63
+7
+0
+0
+" CARRIBEAN LEAGUE "
+"Bridgetown"
+"Kingston"
+"Port of Spain"
+"St. John"
+"India"
+" 0"
+" 301 for 6 West Indies"
+" 70 for 10 England"
+" 151 not out Richards"
+" 6"
+" for 49 Ambrose"
+45
+" CURREY CUP "
+"Cape Town"
+"Durban"
+"Harare"
+"Johannesburg"
+"South Africa"
+" 5"
+" 325 for 9 South Africa"
+" 60 all out Zimbabwae"
+" 158 Boycott"
+" 5"
+" for 60 Rice"
+45
+" FOUNDERS' SERIES "
+"Edgbaston"
+"Lords"
+"Old Trafford"
+"The Oval"
+"India"
+" 8"
+" 334 for 4 England"
+" 44 for 10 England"
+" 189 not out Richards"
+" 5"
+" for 16 Akram"
+50
+" PACIFIC CHALLENGE "
+"Adelaide"
+"Brisbane"
+"Perth"
+"Sydney"
+"New Zealand"
+" 1"
+" 265 for 8 Australia"
+" 84 for 10 England"
+" 161 Border"
+" 6"
+" for 35 Hadlee"
+40
+" SHAH CUP "
+"Bombay"
+"Karachi"
+"Hyderabad"
+"Madras"
+"Pakistan"
+" 2"
+" 283 for 6 India"
+" 80 all out Sri Lanka"
+" 145 Gavaskar"
+" 6"
+" for 14 Khan"
+40
+"Australia"
+" 0"
+" 360 for 4 West Indies"
+" 47 all out Canada"
+" 181 Richards.V"
+" 7"
+" for 33 Gilbert"
+50
+

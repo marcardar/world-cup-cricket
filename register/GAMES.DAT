@@ -1,0 +1,450 @@
+"Taylor",17,0
+"Marsh",16,0
+"Boon",18,0
+"Jones.D",19,0
+"Border",17,10
+"Healy",12,0
+"Waugh.M",16,14
+"Waugh.S",16,14
+"Hughes",9,15
+"Reid",5,19
+"McDermott",4,17
+"Gooch",19,10
+"Hick",16,8
+"Smith.R",18,0
+"Fairbro'",17,0
+"Botham",15,15
+"Stewart",17,0
+"Reeve",11,15
+"Lewis"13,18
+"Pringle.D",11,15
+"DeFreitas",10,18
+"Tuffnell",3,17
+"Srikkanth",16,0
+"Manjrekar",17,0
+"Azharuddin",19,0
+"Tendulkar",19,0
+"Shastri",16,13
+"More",12,0
+"Raju",9,15
+"Banjaree",6,18
+"Amre",6,15
+"Dev",14,18
+"Prabhakar",7,16
+"Wright",18,0
+"Jones.A",16,0
+"Crowe.M",19,0
+"Greatbatch",15,0
+"Patel",15,13
+"Smith.I",10,0
+"Latham",12,13
+"Cairns",8,16
+"Pringle.C",6,14
+"Watson",4,16
+"Morrison",5,18
+"Raja",15,0
+"Anwar",16,0
+"Ijaz",15,0
+"Miandad",18,0
+"Malik",15,12
+"Khan.M",14,0
+"Khan.I",15,18
+"Akram",13,18
+"Aquib",8,16
+"Jaffer",7,15
+"Younis",5,20
+"Wessels",17,0
+"Hudson",15,0
+"Kirstein",16,0
+"Pienaar",15,0
+"Kuiper",15,15
+"Rich'dson.D",10,0
+"Shaw",15,13
+"Pringle.M",12,15
+"Snell",10,15
+"McMillan",5,16
+"Donald",5,18
+"Kuruppu",16,0
+"Gurusinha",15,0
+"Silva.S",15,0
+"Samar'kera",13,0
+"DeSilva.A",15,12
+"Tillek'tne",10,0
+"Ratnayake",15,18
+"Ranatangua",11,16
+"Anurasiri",2,17
+"DeMel",5,13
+"Wijeg'dene",2,12
+"Haynes",19,0
+"Simmons",15,0
+"Rich'son.R",18,0
+"Hooper",16,0
+"Logie",15,13
+"Williams",12,0
+"Marshall",13,18
+"Ambrose",8,18
+"Walsh",7,18
+"Bishop",5,20
+"Patterson",5,16
+"Brown",15,0
+"Pycroft",14,0
+"Houghton",16,0
+"Arnott",13,0
+"Duers",12,12
+"Flower.A",10,0
+"Butchart",11,10
+"Jarvis.M",5,11
+"Traicos",5,11
+"Shah",5,13
+"Brandes",3,13
+"Orthodox"
+"This is the standard field setting used in international one-day matches "
+416
+95
+414
+249
+251
+125
+283
+273
+331
+203
+355
+147
+443
+245
+501
+91
+491
+163
+491
+203
+519
+271
+400
+195
+390
+140
+"Defensive"
+"This field keeps the run rate down, the chance of taking a wicket is less"
+416
+95
+414
+249
+251
+165
+283
+273
+331
+203
+331
+127
+356
+85
+501
+91
+491
+147
+491
+225
+571
+185
+400
+195
+390
+140
+"Semi-Attacking"
+"A combination of men on the boundary and men close to the batsman        "
+416
+95
+414
+249
+251
+205
+283
+273
+311
+165
+346
+85
+438
+245
+501
+91
+491
+165
+461
+235
+536
+255
+400
+195
+390
+140
+"Intimidating"
+"Close in fielders try to intimidate the batsman into a costly mistake    "
+416
+95
+414
+249
+251
+195
+283
+273
+311
+135
+459
+235
+438
+245
+501
+91
+491
+163
+477
+223
+571
+195
+400
+195
+390
+140
+"Highly Attacking"
+"Denies the batsman quick singles pressuring him into risky shots         "
+416
+95
+414
+249
+251
+195
+341
+290
+331
+225
+346
+85
+443
+245
+571
+165
+491
+133
+491
+203
+519
+271
+400
+195
+390
+140
+"WEST INDIES"
+"C7 BM180,80 L30 TA15 L20 TA45 D20 TA5 R25 TA350 U18 BM170,87 P2,7 C7 BM250,140 R20 TA5 D30 R10 D20 TA15 L30 TA30 U25 TA0 U27 TA45 R15 BM245,150 P2,7 C7 BM150,250 TA5 R40 D10 L10 D40 L55 TA45 R26 TA0 U38 BM155,265 P2,7 C7 BM60,160 R20 TA45 D8 TA0 D30 L10 TA20 U37 BM63,165 P2,7"
+15
+28
+265
+190
+14
+13
+85
+185
+19
+5
+155
+265
+7
+24
+173
+85
+""
+"This is a league competition involving"
+"West Indies, Australia and three guest"
+"nations. Each team plays each other"
+"once, with the team at the top of the"
+"league winning the trophy."
+""
+"SOUTH AFRICA & ZIMBABWE"
+"C7 BM80,50 TA345 D30 TA15 D175 L10 TA0 D10 TA5 R107 TA345 U100 TA0 R10 U60 TA45 R50 TA0 BM100,120 P2,7"
+19
+7
+130
+255
+14
+25
+250
+180
+5
+32
+230
+70
+11
+14
+210
+150
+""
+"This is a small knockout competition"
+"involving S.Africa, Sri Lanka and two"
+"guest nations. The semi-final is over"
+"two legs, the winners of which contest"
+"the final over one leg. "
+""
+"ENGLAND"
+"C7 BM110,50 TA15 D70 TA0 D10 L20 TA340 R30 TA320 R45 TA5 D35 TA350 L30 D30 R20 TA45 R30 TA0 R70 TA15 D25 TA155 U70 TA0 L35 D8 TA65 D35 L16 BM50,100 P2,7"
+9
+8
+80
+130
+21
+19
+180
+297
+12
+8
+50
+150
+23
+15
+170
+302
+"This is England's home series where"
+"your team has a good chance to reach"
+"a high position in the international"
+"table. It involves playing three games"
+"against the other nation, where the"
+"winner is the team which wins the most"
+"games."
+"AUSTRALIA"
+"C7 BM25,170 M60,250 M125,220 M165,220 M215,260 M270,260 M295,180 M265,140 M245,90 M220,130 M185,120 M195,100 M150,100 M130,115 M110,115 M25,170 BR10 P2,7"
+18
+16
+195
+240
+13
+28
+288
+177
+18
+3
+58
+235
+16
+29
+277
+225
+""
+"This competition is played on a league"
+"basis between Austrailia, New Zealand"
+"and a guest nation. Each team plays"
+"each other twice and the top two teams"
+"contest the final over one leg."
+""
+"INDIA & PAKISTAN"
+"C7 BM10,130 TA25 R60 D70 TA45 L10 TA5 D15 R20 TA5 D70 TA45 D25 R35 TA340 U60 TA30 R60 TA355 U25 R20 U50 R23 BM150,96 P2,7"
+15
+10
+130
+200
+7
+6
+40
+105
+15
+25
+180
+195
+19
+24
+170
+250
+"India, Pakistan, Sri lanka and three"
+"guest nations compete in this league"
+"and cup competition. They are split"
+"into two leagues of three teams with"
+"the top two in each league qualifying"
+"for the semi-finals, the winners of"
+"which contest the final."
+"This is the most important tournament"
+"in the international one-day calendar."
+"It begins with a league between the"
+"eight top teams in the world. The top"
+"four in the league play each other in"
+"the semi-finals, the winners of which"
+"contest the World Cup Final."
+"C8 BM78,188 R30 BH5 P15,8 BD3 P15,8 C8 BM95,91 TA349 D90 R13 BR20 R8 U110 L40 D20 BR23 P15,8 BD10 BL19 TA349 C8 R30 BU5 L30 BD11 D68 BR10 U55 BR10 D57 BR10 U68 BU20 U10 BL10 D14 BL10 U14 BL10 D13 TA0 C8 BM31,86 D100 R26 U100 L8 U30 L10 D30 L8 R26 BH12 P8,8 BD40 P6,8 C4 BM70,86 C4 R5 U2 R15 D2 R5 D2 L5 D2 L15 U2 L5 U2 BR15 P14,4 BD2 BL18 C4 D100 R5 U100 L5 BF3 P14,4 C8 BR50 BD63 D33 L5 U12 BR2 P14,8 C15 BM5,189 R165 C15 BM5,244 R165 U2 L165 D2 BU1 BR3 P14,15"
+"C8 BM65,257 TA5 U35 TA0 L6 U90 TA20 U65 R25 D65 TA35 D20 TA145 D20 TA160 D65 L25 U65 TA0 D90 L75 BM85,150 P16,8 C8 BM65,257 R58 TA355 U35 BM105,216 TA0 BM80,250 P8,8 C7 BM93,257 U35 BM94,119 P7,8 BM94,139 P14,8 BM32,63 P7,8 BM152,63 P7,8"
+"C8 BM110,100 TA165 L42 TA0 D84 L20 D25 L78 U50 BM110,100 TA145 U20 TA35 U20 TA0 TA15 L42 TA75 L72 D45 R25 U25 TA350 U15 BR5 P15,8 C8 BM65,257 TA5 U40 BM65,257 TA0 R55 TA355 U40 BG10 P8,8 TA0 C7 BM93,257 U35 BM90,80 P7,8 BM82,165 P7,8 BM141,193 P7,8 BM95,113 P14,8"
+"C8 BR4 BU5 TA45 U12 L5 D9 C3 E3 C8 BM110,100 TA165 L42 TA0 D50 TA65 L10 U40 R20 D18 TA0 U20 BM110,100 TA145 U20 TA35 U20 TA20 L42 TA0 D85 R16 D22 R76 U56 BL30 P16,8 C8 BM65,257 TA5 U40 BM65,257 TA0 R55 TA355 U40 BG10 P8,8 TA0 C7 BM93,257 U35 BM90,80 P7,8 BM47,199 P7,8 BM99,141 P7,8 BM95,113 P14,8"
+"C8 BM110,100 TA145 U20 TA35 U20 TA20 L42 TA0 D85 R16 D22 R76 U22 R16 U85 TA337 L40 BM65,257 TA5 U40 BM65,257 TA0 R55 TA355 U40 BG10 P8,8 TA0 C7 BM93,257 U35 BM139,198 P7,8 BM47,199 P7,8 BM95,90 P7,8 BM99,170 P15,8 BM95,113 P14,8"
+"C8 BM110,100 TA145 U20 TA35 U20 BM110,100 TA165 L42 TA0 D84 L20 D25 L20 M-45,-30 BM65,125 TA350 D30 TA10 D38 L22 U45 TA350 U43 TA15 R38 BM125,217 TA0 D40 L33 U48 TA40 L70 U24 R45 BM95,90 P7,8 BM141,194 P7,8 BM58,195 P7,8 BM120,220 P8,8 BM100,130 P15,8 BM104,105 P14,8"
+"C4 BM85,63 R5 U2 R15 D2 R5 D2 L5 D2 L15 U2 L5 U2 BR15 P14,4 BD2 BL18 C4 D100 R5 U100 L5 BF3 P14,4 BH3 BR27 C4 D100 R5 U100 L5 BF3 P14,4 BE3 BU2 BL2 C4 R5 U2 R15 D2 R5 D2 L5 D2 L15 U2 L5 U2 BR15 P14,4 BR7 BD2 C4 D100 R5 U100 L5 BF3 P14,4 C15 BM5,165 R165 C15 BM5,223 R165 U2 L165 D2 BU1 BR3 P14,15"
+"C4 BM85,63 TA55 R5 U2 R15 D2 R5 D2 L5 D2 L15 U2 L5 U2 BR15 P14,4 TA 35 BH60 BD50 BL10 C4 D100 R5 U100 L5 BF3 P14,4 BM115,65 TA0 C4 D100 R5 U100 L5 BF3 P14,4 BE3 BU2 BL2 C4 R5 U2 R15 D2 R5 D2 L5 D2 L15 U2 L5 U2 BR15 P14,4 BR7 BD2 C4 D100 R5 U100 L5 BF3 P14,4 C15 BM5,165 R165 C15 BM5,223 R165 U2 L165 D2 BU1 BR3 P14,15 C8 BM35,257"
+" cover drives "
+" off-drives "
+" on-drives "
+" pulls "
+" sweeps "
+" leg glances "
+" edges "
+" cuts "
+" defends "
+" pushes "
+" fends off "
+" blocks "
+" plays "
+" misses the ball which comes off the pads "
+" pulls the ball over mid-wicket and over the boundary for 6 runs"
+" hoists the ball over the bowler and in to the stands for 6 runs"
+" cuts the ball over the covers for 6 runs"
+"a short pitched delivery "
+"a good length delivery "
+"an over-pitched delivery "
+"a full toss "
+"a slower delivery "
+"a Yorker "
+"straying down the leg side"
+"on a good line"
+"outside the off-stump"
+"LBW appeal turned down to a "
+"leg break pitching outside leg stump"
+"straight ball hitting the batsman on the knee roll"
+"delivery possibly missing off stump"
+"A good "
+"A bad "
+"throw from the fielder at "
+" hits "
+" misses "
+"the stumps"
+"...and is dropped at "
+"cover point"
+"mid-off"
+"mid-on"
+"mid-wicket"
+"square leg"
+"short leg"
+"slip"
+"gulley"
+"extra cover"
+"long off"
+"long on"
+"deep mid-wicket"
+"deep square leg"
+"long leg"
+"third man"
+"cover"
+0
+2
+2
+3
+2
+4
+0
+4
+0
+1
+3
+5
+0
+1
+0
+1
+
+
