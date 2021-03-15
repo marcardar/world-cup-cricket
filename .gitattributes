@@ -2,4 +2,6 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.htm linguist-detectable=false
+*.bat linguist-detectable=false
+*.mak linguist-detectable=false
 *.bas linguist-detectable=true
