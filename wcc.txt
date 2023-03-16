@@ -606,7 +606,7 @@
 
    Point your web browser to:
 
-   http://cricket.mark.carter.name
+   https://cricket.marcardar.com
 
    I have also set up a Yahoo! Groups group for discussing both games:
 
@@ -617,8 +617,8 @@
  --------------------------
    Please send comments & suggestions to:
 
-   mailto:mark@carter.name
-   http://cricket.mark.carter.name
+   mailto:mark+cricket@marcardar.com
+   https://cricket.marcardar.com
 
    ...but keep in mind that this game is no longer being developed...
 
